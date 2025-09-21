@@ -1,4 +1,4 @@
-package pkg
+package cookie_cutter
 
 import (
 	"net/http"
